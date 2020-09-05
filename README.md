@@ -1,4 +1,4 @@
-# Change background color
+# Pass the message
 
 > This project allow you pass a message, and the last one will be displayed.
 
